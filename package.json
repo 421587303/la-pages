@@ -1,0 +1,36 @@
+{
+  "name": "la-pages",
+  "version": "0.1.0",
+  "description": "Awesome node module",
+  "keywords": [
+    "la-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com/la/la-pages#readme",
+  "bugs": {
+    "url": "https://github.com/la/la-pages/issues"
+  },
+  "license": "MIT",
+  "author": "la",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/la/la-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^14.3.4"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
